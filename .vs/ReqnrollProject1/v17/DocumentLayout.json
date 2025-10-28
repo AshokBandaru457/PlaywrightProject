@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|c:\\users\\banda\\source\\repos\\reqnrollproject1\\reqnrollproject1\\drivers\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|solutionrelative:reqnrollproject1\\drivers\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|c:\\users\\banda\\source\\repos\\reqnrollproject1\\reqnrollproject1\\hooks\\driverhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|solutionrelative:reqnrollproject1\\hooks\\driverhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|c:\\users\\banda\\source\\repos\\reqnrollproject1\\reqnrollproject1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|solutionrelative:reqnrollproject1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|c:\\users\\banda\\source\\repos\\reqnrollproject1\\reqnrollproject1\\steps\\loginstepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|solutionrelative:reqnrollproject1\\steps\\loginstepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|c:\\users\\banda\\source\\repos\\reqnrollproject1\\reqnrollproject1\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CACB5170-FCE9-4C41-A773-7F5439F2A359}|ReqnrollProject1\\PlaywrightProject.csproj|solutionrelative:reqnrollproject1\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverHooks.cs",
+              "DocumentMoniker": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Hooks\\DriverHooks.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Hooks\\DriverHooks.cs",
+              "ToolTip": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Hooks\\DriverHooks.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Hooks\\DriverHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:10:10.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Drivers\\Driver.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Drivers\\Driver.cs",
+              "ToolTip": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Drivers\\Driver.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Drivers\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:59:26.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:27:04.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginStepDef.cs",
+              "DocumentMoniker": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Steps\\LoginStepDef.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Steps\\LoginStepDef.cs",
+              "ToolTip": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Steps\\LoginStepDef.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Steps\\LoginStepDef.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:25:03.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Features\\Login.feature",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Features\\Login.feature",
+              "ToolTip": "C:\\Users\\banda\\source\\repos\\ReqnrollProject1\\ReqnrollProject1\\Features\\Login.feature",
+              "RelativeToolTip": "ReqnrollProject1\\Features\\Login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-28T09:52:45.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
